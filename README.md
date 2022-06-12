@@ -1,2 +1,3 @@
 # Premier-Gadget
 The main goal of my project is to build an admin and customer friendly buy and sell website . Using this website people can see numerous models of different gadgets and can order it . On the other hand the admin can import brands and various products of different brands and sell the gadets to customer .Seeing the popularity or rate of order of any particular product admin can update (by increasing or giving discount) the price of that product and import more of that product .Admin will appove any order after seeing every details of that particular order . If admin sees that a customer is suspicious he can block that customer from this website .
+N.B. This is my first project.
